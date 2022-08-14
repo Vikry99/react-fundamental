@@ -1,5 +1,5 @@
 // parent components
-import React, { useEffect, useRef, useState } from "react";
+import React from "react";
 import MainLayouts from "./components/Layout/main.layout";
 import Albums from "./components/Albums/main.albums";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
